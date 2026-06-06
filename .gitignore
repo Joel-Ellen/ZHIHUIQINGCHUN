@@ -1,0 +1,8 @@
+# 忽略所有文件
+/*
+
+# 但保留这两个文件夹及其内容
+!/frontend-scripts/
+!/frontend-scripts/**
+!/java-src/
+!/java-src/**
