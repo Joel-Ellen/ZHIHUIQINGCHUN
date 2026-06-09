@@ -6,3 +6,6 @@
 !/frontend-scripts/**
 !/java-src/
 !/java-src/**
+
+# 保留 README 文件
+!README.md
